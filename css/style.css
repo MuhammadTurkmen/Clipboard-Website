@@ -531,6 +531,10 @@ h3 {
   margin-bottom: 0.5rem;
 }
 
+.mb-16 {
+  margin-bottom: 4rem;
+}
+
 .flex {
   display: flex;
 }
