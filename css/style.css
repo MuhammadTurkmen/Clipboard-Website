@@ -602,6 +602,8 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 body {
   background-image: url("../images/bg-header-desktop.png");
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .hover\:opacity-80:hover {
